@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="686ff534-d836-4698-b185-da74aafe7a98" name="Default Changelist" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/n2o-reborn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.npmrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/.prettierignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/__mocks__/fileMock.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/__mocks__/styleMock.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/jest.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/rollup.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/src/cells/TextCell/TextCell.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/src/cells/TextCell/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/src/cells/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/src/controls/Checkbox/Checkbox.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/src/controls/Checkbox/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/src/controls/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/src/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/src/layouts/LeftRightLayout/LeftPlace.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/src/layouts/LeftRightLayout/LeftRightLayout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/src/layouts/LeftRightLayout/RightPlace.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/src/layouts/LeftRightLayout/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/src/regions/PanelRegion/PanelRegion.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/src/regions/PanelRegion/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/src/regions/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/src/scss/components/table.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/src/scss/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/src/snippets/Breadcrumb/Breadcrumb.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/src/snippets/Breadcrumb/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/src/snippets/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/src/typings.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/src/widgets/Form/Control.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/src/widgets/Form/Field/Field.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/src/widgets/Form/Field/Label.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/src/widgets/Form/Field/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/src/widgets/Form/Field/useField.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/src/widgets/Form/Form.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/src/widgets/Form/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/src/widgets/Form/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/src/widgets/Form/useForm.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/src/widgets/Table/Column.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/src/widgets/Table/Table.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/src/widgets/Table/components/HeaderSelectionCell.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/src/widgets/Table/components/IndeterminateCheckbox.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/src/widgets/Table/components/Row.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/src/widgets/Table/components/SelectionCell.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/src/widgets/Table/components/Tbody.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/src/widgets/Table/components/Thead.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/src/widgets/Table/hooks/usePaging.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/src/widgets/Table/hooks/usePrepareColumns.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/src/widgets/Table/hooks/useSelection.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/src/widgets/Table/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/src/widgets/Table/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/src/widgets/Table/useTableContainer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-components/tsconfig.test.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/rollup.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/N2O.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/actions/api.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/actions/models.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/actions/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/actions/widgets.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/components/Application/Application.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/components/Application/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/components/Cell/Cell.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/components/Cell/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/components/Cell/useCell.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/components/Layout/Footer/Footer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/components/Layout/Footer/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/components/Layout/Header/Brand.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/components/Layout/Header/Header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/components/Layout/Header/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/components/Layout/Layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/components/Layout/Main/Main.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/components/Layout/Main/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/components/Layout/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/components/Page/Page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/components/Page/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/components/Router/Router.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/components/Router/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/components/Widget/Widget.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/components/Widget/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/components/Widget/useWidget.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/components/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/configureStore.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/constants/ModelType.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/constants/api.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/constants/models.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/constants/widgets.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/createdHistory.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/dataProvider/AbstractApiProvider.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/dataProvider/CrudApiProvider.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/dataProvider/RequestError.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/dataProvider/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/react-app-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/reducers/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/reducers/models.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/reducers/widgets.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/sagas/apiSaga.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/sagas/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/selectors/models.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/selectors/widget.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/types/IRequestConfig.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/types/N2OContextType.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/types/reduxState.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/typings.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/utils/compileUrl.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/utils/emptyArray.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/utils/emptyObject.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/src/utils/generateUrl.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-core/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-demo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-demo/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-demo/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-demo/src/pages/TestPage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-demo/src/pages/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-demo/src/setupProxy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/n2o-demo/src/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pnpm-workspace.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/n2o-demo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/n2o-demo/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/n2o-demo/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/n2o-demo/src/App.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/n2o-demo/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/n2o-demo/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/n2o-demo/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/n2o-demo/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/n2o-demo/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/n2o-demo/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/n2o-demo/src/reportWebVitals.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/n2o-demo/src/setupTests.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/n2o-demo/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/n2o-demo/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/n2o-demo/yarn.lock" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1q4JdIvlg12SRr7jVDmG6lEH1sw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/packages/n2o-components/src/widgets" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/packages/n2o-demo/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/packages/n2o-components/src/widgets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/packages/n2o-components/src/widgets/Table/components" />
+      <recent name="$PROJECT_DIR$/packages/n2o-core/src/components/Layout" />
+      <recent name="$PROJECT_DIR$/packages/n2o-components/src" />
+      <recent name="$PROJECT_DIR$/packages/n2o-core/src" />
+      <recent name="$PROJECT_DIR$/packages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.start:demo:server">
+    <configuration name="build:core" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build:core" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="compile:components" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="compile:components" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="compile:core" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="compile:core" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start:demo" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start:demo" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start:demo:server" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start:demo:server" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start:demo:server" />
+        <item itemvalue="npm.start:demo" />
+        <item itemvalue="npm.compile:components" />
+        <item itemvalue="npm.compile:core" />
+        <item itemvalue="npm.build:core" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="686ff534-d836-4698-b185-da74aafe7a98" name="Default Changelist" comment="" />
+      <created>1616333014181</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616333014181</updated>
+      <workItem from="1616333015267" duration="7413000" />
+      <workItem from="1616342806418" duration="251000" />
+      <workItem from="1616343158971" duration="21000" />
+      <workItem from="1616343449289" duration="4728000" />
+      <workItem from="1616429008191" duration="7609000" />
+      <workItem from="1616515542100" duration="2250000" />
+      <workItem from="1616603360749" duration="6966000" />
+      <workItem from="1616689918737" duration="6740000" />
+      <workItem from="1616769892415" duration="21064000" />
+      <workItem from="1617034018061" duration="4771000" />
+      <workItem from="1617119995698" duration="6021000" />
+      <workItem from="1617169935780" duration="1198000" />
+      <workItem from="1617206520559" duration="6756000" />
+      <workItem from="1617518026380" duration="16951000" />
+      <workItem from="1617726521538" duration="7196000" />
+      <workItem from="1617793352699" duration="3901000" />
+      <workItem from="1617942548752" duration="6664000" />
+      <workItem from="1617967398652" duration="2825000" />
+      <workItem from="1618119022716" duration="16333000" />
+      <workItem from="1618215384697" duration="1990000" />
+      <workItem from="1618402594824" duration="5627000" />
+      <workItem from="1618656201870" duration="6523000" />
+      <workItem from="1618808537441" duration="4646000" />
+      <workItem from="1618982113282" duration="104000" />
+      <workItem from="1619106033944" duration="1039000" />
+      <workItem from="1622564380607" duration="435000" />
+      <workItem from="1622618932191" duration="697000" />
+      <workItem from="1622815174880" duration="26000" />
+      <workItem from="1623748394333" duration="353000" />
+      <workItem from="1625413415577" duration="28000" />
+      <workItem from="1627472439713" duration="36000" />
+      <workItem from="1627905400699" duration="1023000" />
+      <workItem from="1627979192611" duration="354000" />
+      <workItem from="1628003948382" duration="978000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+</project>

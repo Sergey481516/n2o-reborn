@@ -1,0 +1,9 @@
+.table {
+  width: 100%;
+
+  &__row {
+    &--selected {
+      background-color: lightblue;
+    }
+  }
+}

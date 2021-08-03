@@ -1,0 +1,25 @@
+{
+  "name": "n2o",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:core": "pnpm recursive run compile:watch --filter @n2o/core",
+    "build:core": "pnpm recursive run compile --filter @n2o/core",
+    "compile:components": "pnpm recursive run watch --filter @n2o/components",
+    "build:components": "pnpm recursive run build --filter @n2o/components",
+    "start:demo": "pnpm recursive run start --filter @n2o/demo",
+    "start:demo:server": "pnpm recursive run start:server --filter @n2o/demo"
+  },
+  "pnpm": {
+    "neverBuiltDependencies": [
+      "typescript"
+    ]
+  },
+  "author": "Sergey Liskov",
+  "license": "ISC",
+  "engines": {
+    "node": ">=12",
+    "pnpm": ">=3"
+  }
+}
